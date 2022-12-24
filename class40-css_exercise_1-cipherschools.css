@@ -1,0 +1,18 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+.main-header{
+    background-color: rgb(127, 127, 127);
+}
+.my-first-blog{
+    background-color: rgb(127, 127, 127);
+}
+.my-second-blog{
+    background-color: rgb(127, 127, 127);
+}
+.color{
+    color:rgb(69, 230, 230)
+}
+span{
+    background-color:rgb(69, 230, 230)
+}
