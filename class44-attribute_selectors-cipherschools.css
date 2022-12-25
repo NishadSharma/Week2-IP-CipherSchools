@@ -1,0 +1,22 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    background-image: pexels-pixabay-268533;
+}
+input[type = "text"]{
+    color:rgb(0, 0, 0)
+}
+input[type = "password" ]{
+    background-color: aqua;
+}
+input[type = "text"]{
+    background-color: aqua;
+}
+input[type = "email"]{
+    background-color: aqua;
+}
+input[type = "button"]{
+    background-color: rgb(228, 128, 13);
+}
+a[href ^= "https"]{
+    color:coral ;
+}
